@@ -1,0 +1,6 @@
+.vagrant
+.idea
+.env
+/ssh-keys/owner.id_rsa
+/ssh-keys/owner.id_rsa.pub
+
